@@ -1,0 +1,8 @@
+filename,description
+01_model_performance_summary.csv,Complete performance metrics with best fold configuration
+02_cv_fold_details.csv,Individual fold scores for all model-fold combinations
+03_cv_summary_by_folds.csv,Summary statistics by model and fold configuration
+04_best_fold_per_model.csv,Best fold configuration identified for each model
+05_metrics_comparison_long.csv,Long format metrics for easy visualization
+06_confusion_matrix_all_models.csv,Confusion matrix breakdown for all models
+07_training_performance.csv,Training time vs accuracy trade-offs
