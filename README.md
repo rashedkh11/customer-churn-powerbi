@@ -87,5 +87,4 @@ The Power BI report includes four dashboards:
 - DAX
 - Power Query
 
-## Repository Structure
 
