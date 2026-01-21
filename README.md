@@ -1,6 +1,6 @@
 # Customer Churn Prediction with Power BI
 
-This project implements a machine learning pipeline for customer churn prediction and visualizes the results using Power BI dashboards. The goal is to evaluate multiple models and present their performance in a clear business intelligence format.
+This project implements a machine learning pipeline for customer churn prediction and visualizes the results using Power BI dashboards. The goal is to evaluate multiple models and present their performance in a clear business intelligence format
 
 ![Dataset Overview Dashboard](powerbi_exports/dashboard.png)
 
